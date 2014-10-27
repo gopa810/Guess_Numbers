@@ -1,0 +1,12 @@
+C:\Users\peter.kollath\Documents\Visual Studio 2008\Projects\Numbers\Numbers\bin\Debug\Numbers.exe
+C:\Users\peter.kollath\Documents\Visual Studio 2008\Projects\Numbers\Numbers\bin\Debug\Numbers.pdb
+C:\Users\peter.kollath\Documents\Visual Studio 2008\Projects\Numbers\Numbers\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\peter.kollath\Documents\Visual Studio 2008\Projects\Numbers\Numbers\obj\Debug\Numbers.AddNumbers.resources
+C:\Users\peter.kollath\Documents\Visual Studio 2008\Projects\Numbers\Numbers\obj\Debug\Numbers.AnalyseInit.resources
+C:\Users\peter.kollath\Documents\Visual Studio 2008\Projects\Numbers\Numbers\obj\Debug\Numbers.AnalysisForm.resources
+C:\Users\peter.kollath\Documents\Visual Studio 2008\Projects\Numbers\Numbers\obj\Debug\Numbers.Form1.resources
+C:\Users\peter.kollath\Documents\Visual Studio 2008\Projects\Numbers\Numbers\obj\Debug\Numbers.Properties.Resources.resources
+C:\Users\peter.kollath\Documents\Visual Studio 2008\Projects\Numbers\Numbers\obj\Debug\Numbers.csproj.GenerateResource.Cache
+C:\Users\peter.kollath\Documents\Visual Studio 2008\Projects\Numbers\Numbers\obj\Debug\Numbers.exe
+C:\Users\peter.kollath\Documents\Visual Studio 2008\Projects\Numbers\Numbers\obj\Debug\Numbers.pdb
+C:\Users\peter.kollath\Documents\Visual Studio 2008\Projects\Numbers\Numbers\obj\Debug\Numbers.AllGeneratorForm.resources
